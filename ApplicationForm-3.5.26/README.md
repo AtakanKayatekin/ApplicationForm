@@ -27,9 +27,9 @@ From the project root directory:
 php -S localhost:8888
 
 Then open:
-http://localhost:8888/frontend/index.html
+http://localhost:8888/ApplicationForm-3.5.26/frontend/index.html
 
-- To view submitted applications, open: http://localhost:8888/backend/applications.php
+- To view submitted applications, open: http://localhost:8888/ApplicationForm-3.5.26/backend/applications.php
 
 You may use any available port.
 
