@@ -29,6 +29,8 @@ php -S localhost:8888
 Then open:
 http://localhost:8888/frontend/index.html
 
+- To view submitted applications, open: http://localhost:8888/backend/applications.php
+
 You may use any available port.
 
 ## Backend Logic
