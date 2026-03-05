@@ -29,6 +29,8 @@ php -S localhost:8888
 Then open:
 http://localhost:8888/frontend/index.html
 
+- To view submitted applications, open: http://localhost:8888/backend/applications.php
+
 You may use any available port.
 
 ## Backend Logic
@@ -38,4 +40,5 @@ You may use any available port.
 - The project does not use a database.
 
 ## Notes
+
 This project is designed for educational purposes and runs entirely on localhost.
